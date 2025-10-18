@@ -3,6 +3,10 @@
 All notable changes to [TopHat] are listed in this file. The format is loosely
 based on [Keep a Changelog].
 
+## TopHat 23 - October 17, 2025
+
+- Added support for GNOME 49
+
 ## TopHat 22 - June 22, 2025
 
 - Added option to display memory usage in GB
